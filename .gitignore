@@ -1,2 +1,7 @@
-*.dat
-results/
+*.dat #ignore everything with extension .dat
+
+!a.dat #not a.dat
+
+results/ #ignores everything in rsults
+
+data/*.dat
