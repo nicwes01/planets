@@ -2,6 +2,4 @@ planets/*.dat #ignore everything with extension .dat in planets folder
 
 planets/!a.dat #don't ignore a.dat in planets folder
 
-results/ #ignores everything in rsults
-
-data/!.txt
+results/data/*.dat #ignores .dat in results
