@@ -1,3 +1,5 @@
 Mars is a cold, red, planet.
 
 It is the fourth planet from the sun in the solar system.
+
+It also has little green aliens.
